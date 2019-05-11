@@ -1,1 +1,1 @@
-window.location = "https://server.okhand.tk/status/503"
+window.location = "https://cdn.okhand.tk/okhandtk"
